@@ -1,4 +1,4 @@
-= Emerald Dshackle
+nanoudaze= Emerald Dshackle
 :imagesdir: docs/assets
 ifdef::env-github[]
 :imagesdir: https://raw.githubusercontent.com/emeraldpay/dshackle/master/docs/assets
